@@ -1,0 +1,8 @@
+{
+    "bootstrap": true,
+    "server": true,
+    "datacenter": "Primary",
+    "data_dir": "..\\..\\consul-data\\",
+    "ui_dir": "..\\ui\\",
+    "log_level": "Trace"
+}
